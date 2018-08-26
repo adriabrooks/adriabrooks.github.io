@@ -5,3 +5,4 @@ Website to dos:
 -- look up what a copyright means
 -- write more in in the news (with links)
 -- change all images to png
+-- make navigation pane smaller so does not require scroll ?
