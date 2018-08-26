@@ -2626,6 +2626,48 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
+/* Accordian */
+
+  button.accordion {
+    background-color: #dddee4;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+	font-family: "Lato", sans-serif;
+	font-size: 16pt;
+	font-weight: 800;
+    transition: 0.4s;
+  }
+  
+  button.accordion.active,
+  button.accordion:hover {
+    background-color: #abacbc;
+  }
+  
+  button.accordion:after {
+    content: '\002B';
+    color: #abacbc;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  button.accordion.active:after {
+    content: "\2212";
+  }
+  
+  div.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+		
+		
 /* Features */
 
 	.features article {
