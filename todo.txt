@@ -7,3 +7,4 @@ Website to dos:
 -- link to publication articles
 -- look up what a copyright means
 -- consider if want to have other pages, but that seems unncessary - except for CV
+-- figure out why images are not working
