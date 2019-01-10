@@ -1,8 +1,9 @@
 Website to dos:
 
--- write more in about me
 -- link to publication articles
 -- look up what a copyright means
--- write more in in the news (with links)
--- change all images to png
+-- write more "in the news" section (with links)
 -- make navigation pane smaller so does not require scroll ?
+-- update CV, etc. with PSC job
+-- add chart graphic with citations and paper (timeline with area chart?)
+-- add awards to education section?

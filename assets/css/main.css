@@ -1761,18 +1761,18 @@ input, select, textarea {
 	header p {
 		color: #aaa;
 		position: relative;
-		margin: 0 0 1.6875em 0;
+		margin: 0 0 1.25em 0 ;
 	}
 
 	header h2 + p {
 		font-size: 1.25em;
-		margin-top: -0.5em;
+		margin-top: -0.25em;
 		line-height: 1.5em;
 	}
 
 	header h3 + p {
 		font-size: 1.1em;
-		margin-top: -0.35em;
+		margin-top: -0.25em;
 		line-height: 1.5em;
 	}
 
@@ -2638,7 +2638,7 @@ input, select, textarea {
     text-align: left;
     outline: none;
 	font-family: "Lato", sans-serif;
-	font-size: 14pt;
+	font-size: 12pt;
 	font-weight: 400;
     transition: 0.4s;
   }
