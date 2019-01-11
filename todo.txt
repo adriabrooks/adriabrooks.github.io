@@ -5,4 +5,3 @@ Website to dos:
 -- write more "in the news" section (with links)
 -- make navigation pane smaller so does not require scroll ?
 -- update CV, etc. with PSC job
--- add chart graphic with citations and paper (timeline with area chart?)
